@@ -9,7 +9,6 @@ on:
       - 'changelog.txt'
       - 'LEGAL'
       - 'LICENSE'
-      - '.github/**'
       - '!.github/workflows/linux.yml'
       - 'snap/**'
       - 'Telegram/build/**'
